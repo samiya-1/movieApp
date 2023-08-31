@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991428450586",
+    "project_id": "registrationloginsignout",
+    "storage_bucket": "registrationloginsignout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991428450586:android:8a1772dc9bd093885a74a3",
+        "android_client_info": {
+          "package_name": "com.example.firebaseregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991428450586-1si7hn7jti2arjka9mfd4a97g69idut7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTcf4I50Mg8gkgx24dFD0fhpthpd2FwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991428450586-1si7hn7jti2arjka9mfd4a97g69idut7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
